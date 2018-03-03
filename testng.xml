@@ -1,0 +1,8 @@
+<suite name = "SmokeTests">
+<test name = "Tests">
+<classes>
+<class name= "com.testologic.tests.LoginTests"/>
+<class name= "com.testologic.tests.AddUsersTests"/>
+</classes>
+</test>
+</suite>
